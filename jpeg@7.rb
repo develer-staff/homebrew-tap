@@ -9,6 +9,7 @@ class JpegAT7 < Formula
   bottle do
     cellar :any
     root_url "https://raw.githubusercontent.com/develersrl/homebrew-tap/master/bottles"
+    sha256 "74c5fc99e29874954ecd7a7f9763b49458233747d42e4b74742748609b599d03" => :sierra
     sha256 "bf61b69b58a93f535f3c16acfbe42a544cce956b6ac1ec6ba3afb35f7db98657" => :high_sierra
   end
 
